@@ -32,7 +32,7 @@ body {
 
 .profile-picture {
     position: absolute;
-    margin-left: 41%;
+    margin-left: 40%;
     transform: translateX(-50%);
     top: 1%;
     border: 5px solid #fff;
@@ -238,7 +238,7 @@ button:hover {
         width: 120px;
         height: 120px;
         top: 3%;
-        left:-25px;
+        left:-15px;
         
         
     }
