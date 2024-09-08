@@ -238,7 +238,8 @@ button:hover {
         width: 120px;
         height: 120px;
         top: 5%;
-        margin-left: 121px;
+        left:-10px;
+/*         margin-left: 121px; */
         
     }
 }
