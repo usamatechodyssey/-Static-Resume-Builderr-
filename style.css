@@ -212,6 +212,7 @@ button:hover {
         width: 130px;
         height: 130px;
         top: 4%;
+        margin-left:3px;
     }
     
     .profile-details {
